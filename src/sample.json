@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "title":"Poseidon",
+        "director":"James Cameron",
+        "year":"1996",
+        "rating":"9"
+    },
+    {
+        "id":"2",
+        "title":"Avatar",
+        "director":"James Cameron",
+        "year":"2008",
+        "rating":"10"
+    },
+    {
+        "id":"3",
+        "title":"Django",
+        "director":"Scorscece",
+        "year":"2012",
+        "rating":"8.5"
+    }
+]
